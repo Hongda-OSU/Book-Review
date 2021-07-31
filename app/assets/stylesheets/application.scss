@@ -16,3 +16,8 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.dropdown-menu > .active > a {
+  background-color: #f1c40f;
+  color: #fff;
+}
